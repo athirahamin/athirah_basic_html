@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>basic knowledge</title>
+</head>
+<body>
+
+<center><h1>Self-Love</h1></center>
+
+<p style="color:blue;"><i>Self-love is a popular term today that gets tossed around in normal conversation: "You have to love yourself more." "Why don't you love yourself?" "If you only loved yourself, this wouldn't have happened to you." "You can't love another person until you love yourself first." These are just a few of the self-love directives we give or get to suggest a way to more living fulfillment.</i></p>
+
+
+<p style="color:blue;"><i>Self-love is important to living well. It influences who you pick for a mate, the image you project at work, and how you cope with the problems in your life. It is so important to your welfare that I want you to know how to bring more of it into your life.</i></p>
+
+
+<p style="color:blue;"><i>What is self-love? Is it something you can obtain through a beauty makeover or a new set of clothes? Can you get more of it by reading something inspirational? Or, can a new relationship make you love yourself more? The answer to all of these questions is No. Although they feel good and are gratifying, you can't grow in self-love through these types of activities.</i></p>
+
+
+<center><p style="color:black;"><strong>Self-love is not simply a state of feeling good. It is a state of appreciation for oneself that grows from actions that support our physical, psychological and spiritual growth</strong></p></center>
+
